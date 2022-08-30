@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="search">Cerca un ristorante</string>
+    <string name="Cart">Il mio carrello</string>
+    <string name="subTotal">Parziale</string>
+    <string name="delivery">Spedizione</string>
+    <string name="total">Totale</string>
+    <string name="conf">Conferma</string>
+    <string name="addFav">Aggiungi ai preferiti</string>
+    <string name="starters">Antipasti</string>
+    <string name="second">Secondi</string>
+    <string name="sides">Contorni</string>
+    <string name="fruits">Frutta</string>
+    <string name="Desserts">Desserts</string>
+    <string name="drinks">Bevande</string>
+    <string name="first">Primi piatti</string>
+    <string name="infoLess">Nascondi info</string>
+    <string name="infoPlus">Mostra info</string>
+    <string name="confirm">Confermare</string>
+    <string name="QR">QR non valido</string>
+    <string name="accept">Accetta</string>
+    <string name="dismiss">Rifiuta</string>
+    <string name="orderMessage">Sono presenti nel carrello prodotti di un altro ristorante.\nVuoi svuotare il carrello ed ordinare da questo ristorante?</string>
+    <string name="emptyCartMess">Il carrello è vuoto</string>
+    <string name="address">Indirizzo</string>
+    <string name="name">Nominativo</string>
+    <string name="date">Data</string>
+    <string name="time">Orario</string>
+    <string name="send">Invia</string>
+    <string name="NF">Errore</string>
+</resources>
